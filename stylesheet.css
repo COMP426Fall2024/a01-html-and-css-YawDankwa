@@ -3,7 +3,6 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0px;
     padding:0px;
-    font: weight 100px
 }
 
 nav ul{
@@ -80,7 +79,7 @@ h2{
     font-family: T;
     font-weight: 100;
     font-size:30px;
-    padding: bottom 20px;
+    padding:20px;
     color: brown;
 
 }
@@ -97,7 +96,7 @@ h2{
 .family-h3{
    font-size: 30px;
    color: brown;
-   margin-bottom: 6;
+   margin-bottom: 0;
 }
 
 .family-h4{
